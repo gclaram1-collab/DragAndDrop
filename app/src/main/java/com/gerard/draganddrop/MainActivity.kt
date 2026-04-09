@@ -65,6 +65,7 @@ fun DragImageScreen(modifier: Modifier = Modifier) {
     // var offsetX by rememberSaveable { mutableStateOf(0f) }
     // var offsetY by rememberSaveable { mutableStateOf(0f) }
     //
+    // hola
 
     // 2. Contenidor principal
     Box(
