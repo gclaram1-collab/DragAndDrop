@@ -55,6 +55,16 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+
+fun provarAlgunaCosa(): String {
+    return "Antonio"
+}
+
+
+fun patataSuprema(): String {
+    return "Hola"
+}
+
 @Composable
 fun DragImageScreen(modifier: Modifier = Modifier) {
 
